@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace Conditionals
 {
+    // Refactoring ideas
+    // - If to Switch
+    // - Extract Methods
+    // - Case Insensitive Comparison
+    // - Switch to Dictionary 
+    // - Add "Combo"
+    // See - https://simpleprogrammer.com/pulling-out-the-switch-its-time-for-a-whooping/
     public static class Movement
     {
         public static string Move(string direction)

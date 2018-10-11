@@ -9,6 +9,10 @@ namespace Conditionals
 {
     public static class States
     {
+        // Refactoring ideas
+        // - Apply Standard Naming
+        // - Case Insensitive Comparison
+        // - Switch to Dictionary - https://simpleprogrammer.com/pulling-out-the-switch-its-time-for-a-whooping/
         public static string chkState(string s)
         {
             string st = string.Empty;
